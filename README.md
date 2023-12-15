@@ -19,6 +19,7 @@ Download data from geoportal.gov.pl and save in dxf file in local CRS.
 
 
 **TODO:**
+1. !Resolve issues wit making build!
 1. Building - vector
 1. NMT - to check
 1. MPZP Get Feature
