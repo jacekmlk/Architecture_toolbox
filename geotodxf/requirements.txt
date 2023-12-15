@@ -1,0 +1,6 @@
+ezdxf
+pyproj
+PySimpleGUI
+rasterio
+Requests
+Shapely
