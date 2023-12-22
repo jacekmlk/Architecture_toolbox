@@ -26,4 +26,14 @@ Download data from geoportal.gov.pl and save in dxf file in local CRS.
 1. Better errorhandling on request
 1. Resolve balckouts as result of transformation
 
+## 2. Vector_Polish_sunlight_hours_compilance
 
+Rhino Grasshopper/Ladybug daylight analysys definition.  
+This definition generate hour-by hour shadow analysys. Output is set of colored polylines.  
+Default time are spring and autumn eqquinox.  
+
+## 3. Accurate_Polish_sunlight_hours_compilance
+
+Rhino Grasshopper/Ladybug daylight analysys definition.  
+This definition generate map of time that shadow occur in speciffied area.   
+Default time are spring and autumn eqquinox. 
